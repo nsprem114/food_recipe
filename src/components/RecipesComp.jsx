@@ -47,7 +47,7 @@ const RecipesComp = () => {
     <div>
       <NavbarComp />
       <div className="container">
-        <h1 className="bg-danger p-3 text-white">Tasty Food Recipes</h1>
+        <h1 className="bg-danger p-3 text-white">Tasty Food Recipe</h1>
       </div>
       <div className="row">
         {SliderData.map((data) => (
